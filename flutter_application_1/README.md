@@ -1,2 +1,0 @@
-# Cook4Life App for Basic Cooking 🍽️
-
